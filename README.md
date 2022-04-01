@@ -1,3 +1,3 @@
 # originsix-beautysalon
-nlw - rocketseat
+nlw 
 developing
